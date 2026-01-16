@@ -59,7 +59,7 @@ def test_get_nth_fibonacci_one():
 
 
 def test_get_nth_fibonacci_ten():
-    """Test with n=10."""
+    """Test with n=10. The 10th Fibonacci number is 55."""
     # Arrange
     n = 10
 
